@@ -9,5 +9,11 @@
             "email": "uyab.exe@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Uyab\\Kamus\\": "/"
+        },
+	    "files": ["helpers.php"]
+    },    
     "require": {}
 }

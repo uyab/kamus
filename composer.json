@@ -15,5 +15,7 @@
         },
 	    "files": ["helpers.php"]
     },    
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true	
 }
